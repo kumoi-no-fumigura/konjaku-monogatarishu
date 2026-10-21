@@ -1,6 +1,7 @@
 {
  "work": "今昔物語集",
  "work_id": "konjaku",
+ "repo": "kumoi-no-fumigura/konjaku-monogatarishu",
  "yomi": "こんじゃくものがたりしゅう",
  "category": "説話",
  "editions": [
@@ -6460,6 +6461,5 @@
    ],
    "text": "000492-016-121008-Ko548Kk国史大系21016冊M30-34ACB-0649"
   }
- ],
- "repo": "kumoi-no-fumigura/konjaku-monogatarishu"
+ ]
 }
